@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>We need access to your photos due to mark your tasks as completed</string>
+	<key>NSCameraUsageDescription</key>
+	<string>This app needs access to the camera to take photos for tasks.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app needs your location to tag task photos with where they were taken.</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>

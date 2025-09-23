@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  CreateTaskViewController.swift
 //  project1_ios102
 //
 //  Created by Mariia Mohylska on 9/23/25.
@@ -7,13 +7,12 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-
+class CreateTaskViewController: UIViewController {
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        
     }
 
-
 }
-
